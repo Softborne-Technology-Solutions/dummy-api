@@ -1,0 +1,27 @@
+{
+   "validUser":{
+      "ValidateMESUserResult":true
+   },
+   "invalidUser":{
+      "ValidateMESUserResult":false
+   },
+   "profile":{
+      "GetMESUserBasicProfileResult":{
+         "FirstName":"Test",
+         "LastName":"Admin",
+         "UserName":"testadmin",
+         "UserPLineInfo":{
+            "FullAccess":"Y",
+            "PlineList":[
+               
+            ]
+         },
+         "UserSiteList":[
+            {
+               "ID":2,
+               "Name":"Dragon Plant"
+            }
+         ]
+      }
+   }
+}
