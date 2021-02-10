@@ -5,6 +5,9 @@
    "invalidUser":{
       "ValidateMESUserResult":false
    },
+   "wmXeQKJCKB1eVfOIrCAf5A==" : {
+      "ValidateMESUserResult":true
+   },
    "profile":{
       "GetMESUserBasicProfileResult":{
          "FirstName":"Test",
